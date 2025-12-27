@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Love & Travel Card",
+  "description": "A festive Christmas card with a magical opening effect, featuring a 'Speak Love' telephone and a China Airlines world tour calendar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
